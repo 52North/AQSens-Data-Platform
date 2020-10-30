@@ -2,7 +2,7 @@
 name: Support request
 about: For submitting any question on how to use the AQSens Data Platform
 title: ''
-labels: ''
+labels: support-request
 assignees: EHJ-52n, simonjirka
 
 ---

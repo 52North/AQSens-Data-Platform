@@ -2,8 +2,8 @@
 name: Issue report
 about: Create a report to help us improve
 title: ''
-labels: ''
-assignees: ''
+labels: issue
+assignees: EHJ-52n, simonjirka
 
 ---
 
