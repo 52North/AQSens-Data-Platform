@@ -12,11 +12,12 @@ A clear and concise description of what the issue is.
 
 **Affect component(s) / functionality**
 
-- [ ] General
-
-Data Access:
+_General_:
 
 - [ ] General
+
+_Data Access_:
+
 - [ ] OGC SensorThings API (Raw Data)
 - [ ] OGC SensorThings API (Predicted Data)
 - [ ] OGC SensorThings API (Reference Data)O
@@ -27,11 +28,13 @@ Data Access:
 - [ ] Helgoland API (Predicted Data)
 - [ ] Helgoland API (Reference Data)
 
-Data Import:
+_Data Import_:
 
 - [ ] Raw Data
 - [ ] Predicted Data
 - [ ] Reference Data
+
+_Visualization_:
 
 - [ ] Data Viewer
 
