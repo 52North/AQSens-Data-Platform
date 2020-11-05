@@ -1,8 +1,11 @@
 # AQSens-Data-Platform
-Dedicated Repository for managing issues and support requests in the scope of the AQSens Data Platform
+This repository is dedicated to the support and maintenance of the AQSens Data Platform. If you need any help or support, please submit an issue via one of the two following templates:
 
-![Step 1](./images/Issue.png)
+* [Reporting a Problem or Bug](https://github.com/52North/AQSens-Data-Platform/issues/new?assignees=EHJ-52n%2C+simonjirka&labels=issue&template=issue-report.md&title=)
+* [Submitting a Support Question](https://github.com/52North/AQSens-Data-Platform/issues/new?assignees=EHJ-52n%2C+simonjirka&labels=support-request&template=support-request.md&title=)
 
-https://github.com/52North/AQSens-Data-Platform/blob/main/images/Issue.png?raw=true
+![Issue Reporting](./images/Issue.png)
 
-![Step 1](./images/Support.png)
+
+
+![Support Request](./images/Support.png)
