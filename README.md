@@ -5,3 +5,7 @@ This repository is dedicated to the support and maintenance of the AQSens Data P
 * [Submitting a Support Question](https://github.com/52North/AQSens-Data-Platform/issues/new?assignees=EHJ-52n%2C+simonjirka&labels=support-request&template=support-request.md&title=): If you have any questions how to use the platform or requests to add/change functionality please use this option.
 
 Within the templates for submitting your issue report or support request, you fill find a set of questions that help us to follow-up your issue. Thus, please make sure that you fill out the templates with as much information as possible.
+
+As soon as you have filled in your request, please click on the submit button (see below):
+
+![Submitting an Issue](./images/Submit.png)
